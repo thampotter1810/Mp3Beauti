@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mp3 Beauty</string>
+    <string name="corver">corver</string>
+    <string name="song_name">Tên bài hát</string>
+    <string name="artist_name">Tên ca sĩ</string>
+    <string name="_00_00">00:00</string>
+    <string name="shuffle">shuffle</string>
+    <string name="prev">prev</string>
+    <string name="play">Play</string>
+    <string name="naxt">naxt</string>
+    <string name="repeat">repeat</string>
+</resources>
